@@ -2,8 +2,8 @@
 //  WTKQRCode.h
 //  WTKQRCodeDemo
 //
-//  Created by 王同科 on 2016/11/17.
-//  Copyright © 2016年 王同科. All rights reserved.
+//  Created by wenchanglin on 2017/6/17.
+//  Copyright © 2017年 wenchanglin. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

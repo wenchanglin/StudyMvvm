@@ -2,8 +2,8 @@
 //  WTKEmptyShoppingCarView.m
 //  WTKWineMVVM
 //
-//  Created by 王同科 on 16/10/24.
-//  Copyright © 2016年 王同科. All rights reserved.
+//  Created by wenchanglin on 2017/5//24.
+//  Copyright © 2017年 wenchanglin. All rights reserved.
 //
 
 #import "WTKEmptyShoppingCarView.h"

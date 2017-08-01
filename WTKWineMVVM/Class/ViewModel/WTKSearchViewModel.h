@@ -2,8 +2,8 @@
 //  WTKSearchViewModel.h
 //  WTKWineMVVM
 //
-//  Created by 王同科 on 16/10/31.
-//  Copyright © 2016年 王同科. All rights reserved.
+//  Created by wenchanglin on 2017/5//31.
+//  Copyright © 2017年 wenchanglin. All rights reserved.
 //
 
 #import "WTKBasedViewModel.h"

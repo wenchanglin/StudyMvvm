@@ -2,8 +2,8 @@
 //  WTKCommentBtn.m
 //  WTKWineMVVM
 //
-//  Created by 王同科 on 16/11/2.
-//  Copyright © 2016年 王同科. All rights reserved.
+//  Created by wenchanglin on 16/11/2.
+//  Copyright © 2017年 wenchanglin. All rights reserved.
 //
 
 #import "WTKCommentBtn.h"

@@ -2,8 +2,8 @@
 //  UILabel+WTK.m
 //  WTKWineMVVM
 //
-//  Created by 王同科 on 16/10/10.
-//  Copyright © 2016年 王同科. All rights reserved.
+//  Created by wenchanglin on 2017/5//10.
+//  Copyright © 2017年 wenchanglin. All rights reserved.
 //
 
 #import "UILabel+WTK.h"
